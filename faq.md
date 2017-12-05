@@ -61,9 +61,3 @@ Please refer to
 https://learn.shayhowe.com/html-css/positioning-content/
 
 Chapters 4 and 5 to get to know how to position elements.
-
-
-
-
-
-
